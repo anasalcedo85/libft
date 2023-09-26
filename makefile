@@ -6,17 +6,17 @@ CC = @cc
 CFLAGS = -Wextra -Werror -Wall
 
 # archivos fuente
-SRC = ft_isalpha.c ft_isdigit.c ft_isascii.c ft_isalnum.c ft_isprint.c
+SRC = $(wildcard ft_*.c)
 
 # archivo objetos
 OBJ = $(SRC:.c=.o)
 
+# construir la librería
+all: $(NAME)
+
 # cómo compilar los archivos objetos
 %.o: %.c
 	$(CC) $(CFLAGS) -c $<
-
-# construir la librería
-all: $(NAME)
 
 # construir la librería
 $(NAME): $(OBJ)
