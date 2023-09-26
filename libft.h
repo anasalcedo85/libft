@@ -13,5 +13,6 @@ int	ft_islower(int c);
 int	ft_isupper(int c);
 int	ft_toupper(int c);
 int	ft_tolower(int c);
+int	ft_atoi(const char *str);
 
 #endif
