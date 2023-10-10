@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isupper.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ansalced <ansalced@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ansalced <ansalced@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 19:46:27 by ansalced          #+#    #+#             */
 /*   Updated: 2023/09/27 19:46:30 by ansalced         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ansalced <ansalced@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ansalced <ansalced@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 19:36:29 by ansalced          #+#    #+#             */
 /*   Updated: 2023/09/27 21:09:29 by ansalced         ###   ########.fr       */

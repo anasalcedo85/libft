@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalnum.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ansalced <ansalced@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ansalced <ansalced@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 19:30:44 by ansalced          #+#    #+#             */
 /*   Updated: 2023/09/27 19:31:05 by ansalced         ###   ########.fr       */

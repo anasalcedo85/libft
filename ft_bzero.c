@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ansalced <ansalced@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ansalced <ansalced@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/30 13:45:47 by ansalced          #+#    #+#             */
 /*   Updated: 2023/09/30 13:45:51 by ansalced         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_islower.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ansalced <ansalced@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ansalced <ansalced@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 19:45:39 by ansalced          #+#    #+#             */
 /*   Updated: 2023/09/27 19:45:41 by ansalced         ###   ########.fr       */
